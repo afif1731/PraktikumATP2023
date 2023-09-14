@@ -2,7 +2,7 @@
 
 Repository untuk menyimpan **code solution** soal-soal ATP 2023/2024 dan materi modul 
 
-Untuk mengakses modul, silakan klik **[di sini](https://github.com/afif1731/PATP2023/wiki)**.
+Untuk mengakses modul, silakan klik **[di sini](https://github.com/afif1731/PraktikumATP2023/wiki)**.
 ## Authors
 
 - [Muhammad Afif](https://github.com/afif1731/)
