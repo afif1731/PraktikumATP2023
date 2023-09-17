@@ -7,8 +7,8 @@ Untuk mengakses modul, silakan klik **[di sini](https://github.com/afif1731/Prak
 
 - [Muhammad Afif](https://github.com/afif1731/)
 - [Bhisma Elki Pratama](https://github.com/bhismapratama)
-- [Awang Fraditya]
-- [Michael Wayne]
-- [Sylvia Febrianti]
+- [Awang Fraditya](https://github.com/Raditsoic)
+- [Michael Wayne](https://github.com/michaelwaynewibisono)
+- [Sylvia Febrianti](https://github.com/sylxer)
 
 main contribution from **[@AlproITS](https://github.com/AlproITS)**.
